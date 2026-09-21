@@ -15,3 +15,7 @@ print(text[::-1])
 
 
 n = 43261596
+sentence = "I am learning Java"
+text = "Python Is Easy"
+print(sentence)
+print(text)
